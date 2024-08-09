@@ -1,0 +1,7 @@
+turtle_pos_controller:
+  ros__parameters:
+    setpoint_x: 2
+    setpoint_y: 2
+    linear_max_velocity: 0.5
+    angular_max_velocity: 1.0
+    docking_radio: 1.0
