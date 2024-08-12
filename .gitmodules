@@ -1,0 +1,9 @@
+[submodule "src/leo_desktop-ros2"]
+	path = src/leo_desktop-ros2
+	url = https://github.com/LeoRover/leo_desktop-ros2
+[submodule "src/leo_common-ros2"]
+	path = src/leo_common-ros2
+	url = https://github.com/LeoRover/leo_common-ros2
+[submodule "src/robot_localization"]
+	path = src/robot_localization
+	url = https://github.com/automaticaddison/robot_localization.git
